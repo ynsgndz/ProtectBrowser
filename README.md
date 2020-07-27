@@ -1,6 +1,6 @@
 # ProtectBrowser
-Simple project with JS
-
+ENG
+--
 Protecting the Browser from Other Persons with password
 
 Password : 1
@@ -15,7 +15,8 @@ Example:
 D:\close/psw.html
 
 -----------------------------------------------------------------------------------------------------------------------
-
+TR
+--
 Bu program istemediğiniz kişilerin tarayıcınızı açmasına engel olur.
 
 Şifre: 1
