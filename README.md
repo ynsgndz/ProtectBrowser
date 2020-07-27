@@ -10,3 +10,15 @@ also if you click on OK (with null value) or Cancel etc.  your browser will clos
 
 INSTALL
 <--         save this file to a specific folder and you must change your browser's opening page by this file address   -->
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Bu program istemediğiniz kişilerin tarayıcınızı açmasına engel olur.
+Tarayıcıyı açtığınızda şifre ekranı gelicektir "1" sayısını girmeniz durumunda , tarayıcı açılıcaktır.
+Eğer parolanız olan "1" sayısını girmez veya 'tamam' , 'iptal' gibi butonlara tıklarsanız tarayıcı kapanıcaktır.
+
+KURULUM
+--
+Bu dosyayı sizden başka kimsenin bilmediği bi yere kaydedin ve tarayıcınızın ayarlarından açılış sayfasını bu dosya olarak gösterin
+örneğin:
+X:\close/psw.html
