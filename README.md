@@ -11,6 +11,8 @@ also if you click on OK (with null value) or Cancel etc.  your browser will clos
 INSTALL
 --
 save this file to a specific folder and you must change your browser's opening page by this file address
+Example:
+D:\close/psw.html
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -24,4 +26,4 @@ KURULUM
 --
 Bu dosyayı sizden başka kimsenin bilmediği bi yere kaydedin ve tarayıcınızın ayarlarından açılış sayfasını bu dosya olarak gösterin
 örneğin:
-X:\close/psw.html
+D:\close/psw.html
